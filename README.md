@@ -1,6 +1,6 @@
 # DNS Mapper 🔍
 
-**Comprehensive DNS reconnaissance tool** - 34 scanning modules, 3,664 lines of code
+**Comprehensive DNS reconnaissance tool**
 
 ---
 
@@ -103,5 +103,4 @@ Python 3.8+ • dnspython • colorama • openpyxl • requests • tqdm
 
 ---
 
-**Project**: Python B1 2025-2026 | **Deadline**: Jan 21, 2026
 # dns_recon_python
