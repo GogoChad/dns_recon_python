@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+
+# DNS querying
+dnspython>=2.4.0
+
+# Excel export
+openpyxl>=3.1.0
+
+# Progress bars
+tqdm>=4.67.0
+
+# Terminal colors
+colorama>=0.4.6
+
+# Additional useful packages
+requests>=2.31.0

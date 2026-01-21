@@ -1,0 +1,26 @@
+# SRV services wordlist
+# Format: _service._protocol
+
+_sip._tcp
+_sip._udp
+_sips._tcp
+_xmpp-server._tcp
+_xmpp-client._tcp
+_jabber._tcp
+_ldap._tcp
+_ldaps._tcp
+_kerberos._tcp
+_kerberos._udp
+_caldav._tcp
+_carddav._tcp
+_imap._tcp
+_imaps._tcp
+_pop3._tcp
+_pop3s._tcp
+_smtp._tcp
+_submission._tcp
+_http._tcp
+_https._tcp
+_ftp._tcp
+_ssh._tcp
+_autodiscover._tcp
